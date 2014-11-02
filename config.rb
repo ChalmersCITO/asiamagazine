@@ -41,11 +41,11 @@ configure :development do
 end
 
 
-activate :blog do |blog|
-  blog.default_extension = ".md"
-  blog.sources = "articles/{title}.html"
-  blog.permalink = "{title}.html"
-end
+# activate :blog do |blog|
+#   blog.default_extension = ".md"
+#   blog.sources = "articles/{title}.html"
+#   blog.permalink = "{title}.html"
+# end
 
 # Methods defined in the helpers block are available in templates
 # helpers do

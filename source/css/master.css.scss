@@ -5,6 +5,9 @@ h1,h2,h3,h4,h5,h6 {
   font-family: SwedenSans, Arial, sans-serif;
 }
 
+hr {
+  border-top-color: #ccc;
+}
 
 .header {
   color: white;
@@ -31,7 +34,7 @@ h1,h2,h3,h4,h5,h6 {
   .large-image {
     background-position: top center; 
     /*background-image: url(../images/umbrellaman.jpg);*/
-    height: 400px;
+    height: 200px;
   }
 }
 
@@ -40,8 +43,13 @@ h1,h2,h3,h4,h5,h6 {
   color: black;
 }
 
+.table-of-content a:visited {
+  color: black;
+}
+
 .table-of-content a:hover {
-  color: lightblue;
+  color: $link-hover-color;
+  text-decoration: none;
 }
 
 .article-thumbnail {
