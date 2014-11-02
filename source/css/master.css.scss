@@ -1,0 +1,49 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: SwedenSans, Arial, sans-serif;
+}
+
+
+.header {
+  color: white;
+  padding-top: 90px;
+  font-family: SwedenSans, Arial, sans-serif;
+
+}
+
+.large-image {
+  width: 100%;
+  position:relative;
+  background-position: bottom right;
+  background-color: rgb(32, 32, 32);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /*background-image: url(../images/umbrellaman-sm.jpg);*/
+  height: 250px;
+}
+
+
+
+@media (min-width: $screen-sm-min) {
+  .large-image {
+    background-position: top center; 
+    /*background-image: url(../images/umbrellaman.jpg);*/
+    height: 400px;
+  }
+}
+
+
+.table-of-content a:link {
+  color: black;
+}
+
+.table-of-content a:hover {
+  color: lightblue;
+}
+
+.article-thumbnail {
+  padding-top: 10px;
+}
