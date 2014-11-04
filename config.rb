@@ -62,6 +62,8 @@ set :js_dir, 'js'
 
 set :images_dir, 'images'
 
+set :relative_links, true
+
 activate :autoprefixer
 
 # Build-specific configuration
@@ -76,7 +78,7 @@ configure :build do
   # activate :asset_hash
 
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
