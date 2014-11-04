@@ -17,3 +17,5 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 gem "bootstrap-sass", :require => false
 gem 'middleman-autoprefixer'
 gem "middleman-blog"
+gem 'middleman-gh-pages'
+
