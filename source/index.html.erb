@@ -22,10 +22,10 @@
       </div>
       <div class="col-sm-8 col-md-4">
         <h3>
-          <%= link_to article.data["title"], article.url %>
+          <%= link_to article.data["title"], article.url, :relative => true %>
         </h3>
         <p><%= article.data["summary"] %></p>
-        <%= link_to "Read more", article.url  %>
+        <%= link_to "Read more", article.url,  :relative => true %>
         <hr>
       </div>
     </article>
