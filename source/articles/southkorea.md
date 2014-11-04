@@ -1,10 +1,14 @@
 ---
-title: South Korea - Transformation in one generation
+title: South Korea
 tags: article
 summary: "The first half of the twentieth century was a difficult period for Korea. The country was under Japanese occupation and took part in several wars, the last one being the Korean War from 1950-1953 that took place after the division of Korea into North- and South Korea. "
 image: Seoul-Skyline.jpg
+author: Lennart Lundberg
 ---
-# South Korea - Transformation in one generation
+# South Korea
+
+###Transformation in one generation
+
 The first half of the twentieth century was a difficult period for Korea. The country was under Japanese occupation and took part in several wars, the last one being the Korean War from 1950-1953 that took place after the division of Korea into North- and South Korea. 
 
 The Korean War left South Korea ravaged, and in the following decade the South Korean economic growth was low, corruption was high and government spending focused on restoring the country. In 1957 the Korean income per capita was lower than that of Ghana.

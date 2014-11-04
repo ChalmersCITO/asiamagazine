@@ -23,9 +23,9 @@ hr {
   background-color: rgb(32, 32, 32);
   background-repeat: no-repeat;
   background-size: cover;
-
-  /*background-image: url(../images/umbrellaman-sm.jpg);*/
-  height: 250px;
+  background-attachment: fixed;
+  background-image: url(../images/umbrellaman-md.jpg);
+  height: 550px;
 }
 
 
@@ -33,11 +33,22 @@ hr {
 @media (min-width: $screen-sm-min) {
   .large-image {
     background-position: top center; 
-    /*background-image: url(../images/umbrellaman.jpg);*/
-    height: 200px;
+    /*background-image: url(../images/umbrellaman.jpg);
+    height: 200px;*/
+  }
+
+
+  .main-text p {
+    font-family: "PT Serif", Georgia, "Times New Roman", serif;
+    font-size: 20px;
+    color: #515151;
   }
 }
 
+.logo a:link, .logo a:visited, .logo a:hover, .logo a:active {
+  color: white;
+  text-decoration: none;
+}
 
 .table-of-content a:link {
   color: black;
@@ -54,4 +65,17 @@ hr {
 
 .article-thumbnail {
   padding-top: 10px;
+}
+
+.main-text p {
+}
+
+.author {
+  margin-top: 60px;
+}
+footer {
+  padding: 20px 0 40px 0;
+}
+footer p {
+  margin-top: 40px;
 }

@@ -1,8 +1,13 @@
-ELMS – English Language Mentoring Scheme 
-Social English the fun way
+---
+title: "ELMS – English Language Mentoring Scheme"
+summary: "As the City University of Hong Kong celebrates its 30th year around, pennants and festive decorations surround us when we meet up at the University Circle in the middle of campus. Kirk, Antony, Jayden and I have gathered here quite a number of times now during the past few weeks."
+tags: article
+author: Mikaela Bengtsson
+image: elms.jpg
+---
 
-Mikaela Bengtsson
-City University of Hong Kong
+#ELMS – English Language Mentoring Scheme 
+*Social English the fun way*
 
 As the City University of Hong Kong celebrates its 30th year around, pennants and festive decorations surround us when we meet up at the University Circle in the middle of campus. Kirk, Antony, Jayden and I have gathered here quite a number of times now during the past few weeks. We are all part of ELMS, short for English Language Mentoring Scheme, which is an initiative that aims to help 1st and 2nd year students improve their English communication skills in various social settings. It is also a great platform for cultural exchanges and increased understanding between borders. With that said, ELMS constitutes an interesting concept that I am proud to be part of.
 
