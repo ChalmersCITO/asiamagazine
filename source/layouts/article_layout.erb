@@ -1,0 +1,40 @@
+<% wrap_layout :layout do %>
+ 
+  <style>
+    .large-image {
+      <% if current_page.data.image != nil %>
+        background-image: url(../images/articles/<%= current_page.data.image %>);
+      <% end %>
+      }
+
+      <% if current_page.data.image_black == "true" %>
+      .logo a:link, .logo a:visited, .logo a:hover, .logo a:active{
+        color: #515151;
+      }
+      <% end %>
+  </style>
+
+  <div class="large-image">
+    <div class="container header center">
+      <div class="row">
+        <div class="col-md-offset-2 col-md-4">
+          <h1 class="logo"><a href="/index.html">Asia Magazine</a></h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row main-text">
+      <article class="col-sm-10 col-sm-offset-1
+                      col-md-8 col-md-offset-2
+                      col-xl-6 col-xl-offset-3">
+        <%= yield %>
+
+        <p class="author">
+          <emph><%= current_page.data.author %></emph>
+        </p>
+      </article>
+    </div>
+  </div>
+<% end %>
