@@ -1,6 +1,6 @@
 ---
 title: Fighting Disasters with Action and Thought
-summary: "One of Asia’s largest non-governmental organisations, the Buddhist Compassion Relief Tzu Chi Foundation, has its base of operation in Hualien at Taiwan’s east coast. Its work is to provide relief during disasters – both man-made and natural – and was started in 1966, by the now 73 year old Dharma Master Cheng Yen in the aftermath of the American aid programme coming to an end. Starting out as a monastery for nuns it has since evolved alongside Taiwan’s economic miracle into an organisation with 2 million volunteers worldwide, and an annual income from donations of more than 269 million USD."
+summary: "One of Asia’s largest non-governmental organisations, the Buddhist Compassion Relief Tzu Chi Foundation, has its base of operation in Hualien at Taiwan’s east coast. Its work is to provide relief during disasters – both man-made and natural – and was started in 1966, by the now 73 year old Dharma Master Cheng Yen in the aftermath of the American aid programme coming to an end."
 author: "Love Carlson and Kasper Westman"
 tags: article
 image: fighting-disasters.jpg

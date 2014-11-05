@@ -1,13 +1,12 @@
-
 ---
-title: Shape the nation
-author: Sarah Blake Elmvall
+title: Shape the Nation
 tags: article
-summary: "I am waiting for the bus to take me to University Town, my home during the year. The bus is uncharacteristically late and I realize I am getting frustrated. Another bus passes and I manage to read two quotes sprawled across the vehicle: “Of all the careers that lies ahead, take one that makes a difference.” I assume that I am seeing an ad for a university or a specific program; however, underneath this, in capital letters, I depict: “SHAPE THE NATION”. This is the government of Singapore reaching out to its future workforce and I realize that this is what the nation is about ‒ individuals striving to contribute to the prosperity of the country. "
+author: Sarah Blake Elmvall
+summary: "I am waiting for the bus to take me to University Town, my home during the year. The bus is uncharacteristically late and I realize I am getting frustrated. Another bus passes and I manage to read two quotes sprawled across the vehicle."
 image: shapethenation.jpg
 ---
 
-# Shape the nation
+# Shape the Nation
 *A reflection on the effects of disciplinary hierarchy in the Singaporean educational culture.*
 
 I am waiting for the bus to take me to University Town, my home during the year. The bus is uncharacteristically late and I realize I am getting frustrated. Another bus passes and I manage to read two quotes sprawled across the vehicle: “Of all the careers that lies ahead, take one that makes a difference.” I assume that I am seeing an ad for a university or a specific program; however, underneath this, in capital letters, I depict: “SHAPE THE NATION”. This is the government of Singapore reaching out to its future workforce and I realize that this is what the nation is about ‒ individuals striving to contribute to the prosperity of the country. 
