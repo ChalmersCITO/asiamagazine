@@ -17,11 +17,11 @@
 
   <% sitemap.where(:tags.include => "article").all.each do |article| %>
     <article class="row">
-      <div class="col-sm-4 col-md-2 article-thumbnail">
+      <div class="col-sm-4 col-md-offset-1 col-md-3 article-thumbnail">
         <img src="images/articles/<%=article.data["image"]%>" 
-          class="img-responsive img-rounded hide" alt="">
+          class="img-responsive img-rounded" alt="">
       </div>
-      <div class="col-sm-8 col-md-4">
+      <div class="col-sm-8 col-md-7">
         <h3>
           <%= link_to article.data["title"], article.url, :relative => true %>
         </h3>
