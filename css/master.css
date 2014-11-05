@@ -6748,12 +6748,12 @@ hr {
 .large-image {
   width: 100%;
   position: relative;
-  background-position: bottom right;
+  background-position: top center;
   background-color: #202020;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-image: url(../images/umbrellaman-md.jpg);
+  background-image: url(../images/umbrellaman-large.jpg);
   height: 550px; }
 
 @media (min-width: 768px) {
@@ -6788,7 +6788,7 @@ hr {
 
 /* line 66, /Users/max/Code/asiamagazine/source/css/master.css.scss */
 .article-thumbnail {
-  padding-top: 10px; }
+  padding-top: 20px; }
 
 /* line 73, /Users/max/Code/asiamagazine/source/css/master.css.scss */
 .author {
