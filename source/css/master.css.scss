@@ -50,15 +50,15 @@ hr {
   text-decoration: none;
 }
 
-.table-of-content a:link {
-  color: black;
+.table-of-content a:link, a.black-link:link {
+  color: #515151;
 }
 
-.table-of-content a:visited {
-  color: black;
+.table-of-content a:visited, a.black-link:visited {
+  color: #515151;
 }
 
-.table-of-content a:hover {
+.table-of-content a:hover, a.black-link:hover{
   color: $link-hover-color;
   text-decoration: none;
 }
@@ -73,9 +73,20 @@ hr {
 .author {
   margin-top: 60px;
 }
+
+.main-text img {
+  display: block;
+  max-width: 100%;
+  height: auto; 
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
 footer {
   padding: 20px 0 40px 0;
 }
 footer p {
   margin-top: 40px;
 }
+
+

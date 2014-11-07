@@ -32,7 +32,18 @@
         <%= yield %>
 
         <p class="author">
-          <emph><%= current_page.data.author %></emph>
+          <emph>
+          <% if current_page.data.author.is_a? String %>
+            <%= current_page.data.author %>
+          <% else %>
+            <% current_page.data.author.each_slice(2).each do |author| %>
+              <a class="black-link" href="mailto:<%= author[1] %>">
+                <%= author[0] %>
+              </a></br>
+            <% end %>
+          <% end %>
+          </emph>
+
         </p>
       </article>
     </div>
