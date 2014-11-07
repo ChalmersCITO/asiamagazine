@@ -6774,15 +6774,15 @@ hr {
   text-decoration: none; }
 
 /* line 53, /Users/max/Code/asiamagazine/source/css/master.css.scss */
-.table-of-content a:link {
-  color: black; }
+.table-of-content a:link, a.black-link:link {
+  color: #515151; }
 
 /* line 57, /Users/max/Code/asiamagazine/source/css/master.css.scss */
-.table-of-content a:visited {
-  color: black; }
+.table-of-content a:visited, a.black-link:visited {
+  color: #515151; }
 
 /* line 61, /Users/max/Code/asiamagazine/source/css/master.css.scss */
-.table-of-content a:hover {
+.table-of-content a:hover, a.black-link:hover {
   color: #2a6496;
   text-decoration: none; }
 
@@ -6794,10 +6794,18 @@ hr {
 .author {
   margin-top: 60px; }
 
-/* line 76, /Users/max/Code/asiamagazine/source/css/master.css.scss */
+/* line 77, /Users/max/Code/asiamagazine/source/css/master.css.scss */
+.main-text img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 40px;
+  margin-top: 40px; }
+
+/* line 85, /Users/max/Code/asiamagazine/source/css/master.css.scss */
 footer {
   padding: 20px 0 40px 0; }
 
-/* line 79, /Users/max/Code/asiamagazine/source/css/master.css.scss */
+/* line 88, /Users/max/Code/asiamagazine/source/css/master.css.scss */
 footer p {
   margin-top: 40px; }
