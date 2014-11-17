@@ -6790,11 +6790,15 @@ hr {
 .article-thumbnail {
   padding-top: 20px; }
 
-/* line 73, /Users/max/Code/asiamagazine/source/css/master.css.scss */
+/* line 70, /Users/max/Code/asiamagazine/source/css/master.css.scss */
+.main-text p {
+  margin-bottom: 20px; }
+
+/* line 74, /Users/max/Code/asiamagazine/source/css/master.css.scss */
 .author {
   margin-top: 60px; }
 
-/* line 77, /Users/max/Code/asiamagazine/source/css/master.css.scss */
+/* line 78, /Users/max/Code/asiamagazine/source/css/master.css.scss */
 .main-text img {
   display: block;
   max-width: 100%;
@@ -6802,10 +6806,10 @@ hr {
   margin-bottom: 40px;
   margin-top: 40px; }
 
-/* line 85, /Users/max/Code/asiamagazine/source/css/master.css.scss */
+/* line 86, /Users/max/Code/asiamagazine/source/css/master.css.scss */
 footer {
   padding: 20px 0 40px 0; }
 
-/* line 88, /Users/max/Code/asiamagazine/source/css/master.css.scss */
+/* line 89, /Users/max/Code/asiamagazine/source/css/master.css.scss */
 footer p {
   margin-top: 40px; }
